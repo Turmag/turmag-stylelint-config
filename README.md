@@ -45,15 +45,13 @@ In `stylelint.config.js`:
 * Import config from turmag-stylelint-config
 
 ```
-import config from `'turmag-stylelint-config'`;
+import config from 'turmag-stylelint-config';
 ```
 * Use this config with your optional rules:
 
 ```
-import config from 'turmag-stylelint-config';
-
 export default {
-    extends: [ 'config' ],
+    extends: ['turmag-stylelint-config'],
 
     // Your rules there
     {
