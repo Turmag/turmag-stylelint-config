@@ -1,4 +1,4 @@
-import config from './index.js';
+import config from 'turmag-eslint-config';
 
 export default [
     ...config,
