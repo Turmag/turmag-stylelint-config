@@ -54,10 +54,8 @@ export default {
     extends: ['turmag-stylelint-config'],
 
     // Your rules there
-    {
-        rules: {
-            ...
-        },
+    rules: {
+        ...
     },
 };
 ```

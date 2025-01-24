@@ -23,6 +23,7 @@ export default {
         '@stylistic/no-extra-semicolons': true,
         'import-notation': 'string',
         'selector-class-pattern': '[a-z]+[A-Z]*',
+        'value-keyword-case': ['lower', { ignoreFunctions: ['v-bind'] }],
         'order/properties-order': [
             'content',
             'position',
