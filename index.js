@@ -37,6 +37,7 @@ export default {
             'overflow-x',
             'overflow-y',
             'display',
+            'flex-direction',
             'justify-content',
             'align-items',
             'align-content',
