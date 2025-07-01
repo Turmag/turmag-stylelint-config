@@ -11,6 +11,7 @@ export default {
         '@stylistic/block-closing-brace-newline-after': 'always',
         '@stylistic/block-closing-brace-newline-before': 'always',
         '@stylistic/block-opening-brace-space-before': 'always',
+        '@stylistic/color-hex-case': 'lower',
         '@stylistic/declaration-bang-space-after': 'never',
         '@stylistic/declaration-block-semicolon-newline-after': 'always',
         '@stylistic/declaration-block-trailing-semicolon': 'always',

@@ -1,7 +1,7 @@
 {
     "name": "turmag-stylelint-config",
     "main": "index.js",
-    "version": "0.0.9",
+    "version": "0.0.10",
     "type": "module",
     "description": "Turmag's reusable stylelint-config",
     "author": "Pavel Vinogradov",
